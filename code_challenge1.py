@@ -1,0 +1,2 @@
+a ="\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t*\t\t\" Portillano,Gian Paul Gabriel S.\"\t\t*\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t*"
+print(a)
